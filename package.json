@@ -1,0 +1,13 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "node-media-server": "^2.1.4"
+  }
+}
